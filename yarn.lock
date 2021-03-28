@@ -1304,9 +1304,9 @@ svelte@^3.29.0:
 "sveltejs-adapter-ipfs@file:.yalc/sveltejs-adapter-ipfs":
   version "0.0.1"
 
-"sveltejs-adapter-ipfs@https://github.com/wighawag/sveltejs-adapater-ipfs.git#b7f554696f3892a929265715e5748d23969227d8":
+"sveltejs-adapter-ipfs@https://github.com/wighawag/sveltejs-adapater-ipfs.git#4aec24e315bdc0fa7ccc08b613ee566b418d127f":
   version "0.0.1"
-  resolved "https://github.com/wighawag/sveltejs-adapater-ipfs.git#b7f554696f3892a929265715e5748d23969227d8"
+  resolved "https://github.com/wighawag/sveltejs-adapater-ipfs.git#4aec24e315bdc0fa7ccc08b613ee566b418d127f"
 
 table-layout@^1.0.1, table-layout@~1.0.0:
   version "1.0.2"

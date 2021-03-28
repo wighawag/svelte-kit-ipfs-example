@@ -1,18 +1,15 @@
 <script lang="ts">
-	import { goto, prefetch, prefetchRoutes } from '$app/navigation';
 	import Counter from '$lib/Counter.svelte';
 </script>
 
 <main>
-	<h1>Hello world!</h1>
-
-	<nav>
-        <a href=".">Home</a>
-        <a href="about/">About</a>
-        <a href="test/deep/">Deep</a>
-	</nav>
-	
-	<button on:click={() => goto('test/deep')}>dskdj skd</button>
+    <h1>ABOUT</h1>
+    
+    <nav>
+        <a href="../">Home</a>
+        <a href=".">About</a>
+        <a href="../test/deep/">Deep</a>
+    </nav>
 
 	<Counter />
 
