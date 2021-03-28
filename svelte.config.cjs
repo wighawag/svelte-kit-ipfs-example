@@ -1,5 +1,5 @@
 const sveltePreprocess = require('svelte-preprocess');
-const adapter_static = require('@sveltejs/adapter-static');
+const adapter_static = require('sveltejs-adapter-ipfs');
 const pkg = require('./package.json');
 
 /** @type {import('@sveltejs/kit').Config} */
